@@ -38,11 +38,12 @@
 		"source":"https://github.com/MetaModels/bundle_nontranslated"
 	},
 	"require":{
-		"metamodels/attribute_alias":"*",
-		"metamodels/attribute_file":"*",
-		"metamodels/attribute_longtext":"*",
-		"metamodels/attribute_select":"*",
-		"metamodels/attribute_tags":"*",
-		"metamodels/attribute_text":"*"
+		"metamodels/attribute_alias":"*@dev",
+		"metamodels/attribute_file":"*@dev",
+		"metamodels/attribute_longtext":"*@dev",
+		"metamodels/attribute_select":"*@dev",
+		"metamodels/attribute_tabletext":"*@dev",
+		"metamodels/attribute_tags":"*@dev",
+		"metamodels/attribute_text":"*@dev"
 	}
 }
