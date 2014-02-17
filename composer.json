@@ -45,6 +45,7 @@
 		"metamodels/attribute_tabletext":"*@dev",
 		"metamodels/attribute_tags":"*@dev",
 		"metamodels/attribute_text":"*@dev",
+		"metamodels/attribute_combinedvalues":"*@dev",
 		"metamodels/attribute_checkbox":"*@dev"
 	}
 }
