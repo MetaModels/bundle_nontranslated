@@ -32,7 +32,7 @@
   },
   "require": {
     "metamodels/attribute_alias": "~2.0",
-    "metamodels/attribute_checkbox": "~2.0"
+    "metamodels/attribute_checkbox": "~2.0",
     "metamodels/attribute_combinedvalues": "~2.0",
     "metamodels/attribute_file": "~2.0",
     "metamodels/attribute_longtext": "~2.0",
