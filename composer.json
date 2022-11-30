@@ -43,5 +43,10 @@
     "metamodels/attribute_tags": "^2.2",
     "metamodels/attribute_text": "^2.2",
     "metamodels/attribute_url": "^2.2"
+  },
+  "config": {
+    "allow-plugins": {
+      "contao-components/installer": true
+    }
   }
 }
