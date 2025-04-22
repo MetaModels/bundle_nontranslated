@@ -27,22 +27,21 @@
     "email": "mail@metamodel.me",
     "issues": "https://github.com/MetaModels/bundle_nontranslated/issues",
     "wiki": "https://de.contaowiki.org/MetaModels",
-    "irc": "irc://irc.freenode.org/contao.mm",
     "source": "https://github.com/MetaModels/bundle_nontranslated"
   },
   "require": {
-    "metamodels/attribute_alias": "^2.2",
-    "metamodels/attribute_checkbox": "^2.2",
-    "metamodels/attribute_combinedvalues": "^2.2",
-    "metamodels/attribute_contentarticle": "^2.2",
-    "metamodels/attribute_file": "^2.2",
-    "metamodels/attribute_longtext": "^2.2",
-    "metamodels/attribute_select": "^2.2",
-    "metamodels/attribute_tablemulti": "^2.2",
-    "metamodels/attribute_tabletext": "^2.2",
-    "metamodels/attribute_tags": "^2.2",
-    "metamodels/attribute_text": "^2.2",
-    "metamodels/attribute_url": "^2.2"
+    "metamodels/attribute_alias": "^2.3",
+    "metamodels/attribute_checkbox": "^2.3",
+    "metamodels/attribute_combinedvalues": "^2.3",
+    "metamodels/attribute_contentarticle": "^2.3",
+    "metamodels/attribute_file": "^2.3",
+    "metamodels/attribute_longtext": "^2.3",
+    "metamodels/attribute_select": "^2.3",
+    "metamodels/attribute_tablemulti": "^2.3",
+    "metamodels/attribute_tabletext": "^2.3",
+    "metamodels/attribute_tags": "^2.3",
+    "metamodels/attribute_text": "^2.3",
+    "metamodels/attribute_url": "^2.3"
   },
   "config": {
     "allow-plugins": {
